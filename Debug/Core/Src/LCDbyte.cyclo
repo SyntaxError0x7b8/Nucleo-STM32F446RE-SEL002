@@ -1,0 +1,8 @@
+../Core/Src/LCDbyte.c:24:13:LCD_init	1
+../Core/Src/LCDbyte.c:43:13:init_ports	1
+../Core/Src/LCDbyte.c:69:13:LCD_isready	2
+../Core/Src/LCDbyte.c:99:13:LCD_cmd	1
+../Core/Src/LCDbyte.c:113:13:LCD_cmd_strt	1
+../Core/Src/LCDbyte.c:128:13:LCD_acsii	1
+../Core/Src/LCDbyte.c:147:13:delayLCD	3
+../Core/Src/LCDbyte.c:156:13:refreshLCD	2
